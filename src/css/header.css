@@ -1,0 +1,17 @@
+div {
+  background: #222;
+  padding: 0 20px;
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%;
+  z-index: 200;
+}
+
+div ul li {
+  display: inline-block;
+  padding-right: 10px;
+}
+
+div ul li a {
+  color: #fff;
+}
