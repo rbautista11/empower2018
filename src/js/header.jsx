@@ -18,6 +18,7 @@ export class Header extends Component {
           <li><a>Parking</a></li>
           <li><a>FAQ</a></li>
           <li><a>Contact</a></li>
+          <li><a>Test</a></li>
         </ul>
       </div>
     );
